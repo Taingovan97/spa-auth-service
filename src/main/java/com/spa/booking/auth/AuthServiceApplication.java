@@ -1,13 +1,13 @@
-package com.example.spabooking;
+package com.spa.booking.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpaBookingPlatformApplication {
+public class AuthServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpaBookingPlatformApplication.class, args);
+		SpringApplication.run(AuthServiceApplication.class, args);
 	}
 
 }

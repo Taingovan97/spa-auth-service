@@ -1,10 +1,10 @@
-package com.example.spabooking;
+package com.spa.booking.auth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpaBookingPlatformApplicationTests {
+class AuthServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
